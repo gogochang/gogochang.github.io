@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>gogochang's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-07-22T21:05:41+09:00</updated>
+  <updated>2024-10-16T17:12:46+09:00</updated>
   <author>
     <name>gogochang</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,50 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>[백준 11054][swift] 가장 긴 바이토닉 부분 수열</title>
+    <link href="http://localhost:4000/posts/%EB%B0%B1%EC%A4%80-11054-Swift-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/" rel="alternate" type="text/html" title="[백준 11054][swift] 가장 긴 바이토닉 부분 수열" />
+    <published>2024-10-16T00:00:00+09:00</published>
+  
+    <updated>2024-10-16T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%B0%B1%EC%A4%80-11054-Swift-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/</id>
+    <content src="http://localhost:4000/posts/%EB%B0%B1%EC%A4%80-11054-Swift-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/" />
+    <author>
+      <name>gogochang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>백준 1932번: 가장 긴 바이토닉 부분 수열
+
+  문제
+  
+  수열 S가 주어졌을 때, 그 수열의 부분 수열 중에서 바이토닉 부분 수열이면서 가장 긴 것을 구하는 프로그램을 작성하시오.
+
+  바이토닉 수열이란, 수열이 다음과 같은 조건을 만족하는 경우이다.
+
+  
+    S1 &amp;amp;lt; S2 &amp;amp;lt; … &amp;amp;lt; Sk &amp;amp;gt; Sk+1 &amp;amp;gt; … &amp;amp;gt; Sn (1 ≤ k ≤ n, k는 수열의 임의의 위치)
+  
+
+  즉, 처음에는 오름차순으로 증가하고, 그 후에는 내림차순으로 감소하는 수열을 말한다.
+
+  입력
+  
+  첫째 줄에 수열 A의 크기 N이 주어진다. (1 ≤ N ≤ 1,000)
+
+  둘째 줄에는 수열 A를 이루고 있는 Ai가 주어진다. (1 ≤ Ai ≤ 1,000)
+
+  출력
+  
+ ...</summary>
+
+  </entry>
 
   
   <entry>
